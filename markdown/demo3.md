@@ -24,19 +24,24 @@
 |link|demo|[百度]|
 
 精简表格:  
-这 |是|表头  
-----|：-----：|：----  
-a|b|c  
-row2|row2|row2 
+ 这        |   是        |   表头       
+----   |:------:|-------:   
+ cell1kjkjasfdkljf | cellasfjksjfdsa;jfd2  | celsafdsadfjak 3     
+ row 2 | row 2  | row 2    
+
+ 这  | 是 | 表头  
+ ---- |：-----：|：----  
+ a | b | c  
+ row2 | row2 | row2 
 
 # GFM demo
 Github Flvored Markdown, GFM
 
 task list
 
-- [x]task1
-- [x]task2
-- [ ]task3
+- [x] task1
+- [x] task2
+- [ ] task3
 
 emoji 表情符号(参考链接,[github表情整理](https://github.com/guodongxiaren/README/blob/master/emoji.md))
 
