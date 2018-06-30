@@ -31,13 +31,6 @@
  cell1kjkjasfdkljf | cellasfjksjfdsa;jfd2  | celsafdsadfjak 3     
  row 2 | row 2  | row 2    
 
-
-
- 这  | 是 | 表头  
- ---- |：-----：|：----  
- a | b | c  
- row2 | row2 | row2 
-
 # GFM demo
 Github Flvored Markdown, GFM
 
